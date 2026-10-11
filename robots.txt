@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://er-nikhil-yadav.vercel.app/sitemap.xml
